@@ -1,6 +1,7 @@
 # background_service
 
-A new Flutter application.
+Updated version of https://github.com/charleswritescode/flutter_background_code
+IOs not updated.
 
 ## Getting Started
 
